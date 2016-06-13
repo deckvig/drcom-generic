@@ -1,3 +1,4 @@
+## DLNU 版请在 custom 中下载
 #drcom-generic
 ---
 [![Join the chat at https://gitter.im/drcoms/drcom-generic](https://badges.gitter.im/drcoms/drcom-generic.svg)](https://gitter.im/drcoms/drcom-generic?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
